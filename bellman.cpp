@@ -1,7 +1,4 @@
-/*
-TASK: comehome
-LANG: C++11
-*/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define mp make_pair
